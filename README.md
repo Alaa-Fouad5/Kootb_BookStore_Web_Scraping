@@ -71,9 +71,9 @@ The project was developed incrementally in Jupyter Notebook, starting with testi
 
 ### Example
 
-![Excel Sample](Excel_Screenshot.png)
+![Excel Sample](Images/Excel_Screenshot.png)
 
-![Code Sample](Code_Screenshot.png)
+![Code Sample](Images/Code_Screenshot.png)
 
 ---
 
